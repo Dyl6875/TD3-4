@@ -1,4 +1,5 @@
 body {
+    background-color: #A9C1E2;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -7,7 +8,21 @@ img {
 }
 
 header {
+    display: flex;
+    align-items: center;
+    gap: 32px;
     padding: 16px;
-    margin: 32px;
-    background-color: aqua;
+    margin: 0;
+    margin-right: auto;
+    background-color: #3A83CC;
+}
+
+h1{
+    margin: 0;
+    padding: ;
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 150px;
 }
