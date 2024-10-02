@@ -1,0 +1,13 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    padding: 16px;
+    margin: 32px;
+    background-color: aqua;
+}
