@@ -14,15 +14,21 @@ header {
     padding: 16px;
     margin: 0;
     margin-right: auto;
-    background-color: #3A83CC;
+    background-color: #A8BEE3;
 }
 
 h1{
     margin: 0;
     padding: ;
 }
+
 a {
     text-decoration: none;
     color: black;
     margin-left: 150px;
+
+}
+
+.test {
+    font-size: 23px;
 }
