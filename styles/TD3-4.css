@@ -1,10 +1,18 @@
 body {
-    background-color: #A8BEE3;
+    background:linear-gradient(to left bottom,#A8BEE3, #ececec,#4d4c4c);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.image2 {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
 }
 
 img {
-    max-width: 100%;
+    max-width: 96%;
+    border-radius: 9px;
 }
 
 header {
@@ -14,7 +22,8 @@ header {
     padding: 16px;
     margin: 0;
     margin-right: auto;
-    background-color: #d12923;
+    background-color: #ff2e27;
+    border-radius: 3px;
 }
 
 h1{
@@ -31,5 +40,4 @@ a {
 
 .test {
     font-size: 23px;
-    padding: 15px;
 }
